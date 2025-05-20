@@ -36,6 +36,10 @@
     width: 100%;
     max-width: 46.875rem;
   }
+  
+  #hero-1785 .cs-topper {
+    color: white;
+  }
 
   #hero-1785 .cs-title {
     font-size: clamp(3.0625rem, 6vw, 5.25rem);
